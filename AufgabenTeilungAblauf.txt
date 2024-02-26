@@ -24,3 +24,4 @@ Bis 12.00: Polishing der Präsentation, Export nach HTML
 Auf 3 Plots zum Präsentieren festlegen
 Präsentation Besprechen, kleines Gerüst machen
 Reihenfolge der Präsentierer
+  
