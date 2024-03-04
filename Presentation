@@ -1,0 +1,95 @@
+
+* Ziel sollte es sein, eine Geschäftserweitung zu machen.
+* Wir haben dazu angenommen, dass wir in den meisten Fällen eine prozentuale Provision bekommen
+* und damit Ziel sein sollte, das Volumen (Summe über alle finanzierte Projekte zu vergrößern)
+* Wir haben festgestellt, dass der allergrößte Teil der Projekte vollständig finanziert wird (93%) und es scheinbar genügend Finanzier gibt.
+* Deshalb haben wir als erste Arbeitshypothese angenommen, dass wir auf der Seite der Projekte bzw. Projektstellenden unser Geschäft erweitern sollten.
+* Als mögliche Themen zur Analyse hatten wir identifziert:
+    * In welchen Ländern können wir wachsen? 
+    * In welchen Sektoren/Kategorien können wir noch wachen?
+    * Bei welchen Personengruppen (Geschlecht) haben wir noch Potenzial?
+* Wir haben uns für die Sektoren/Oberkategorien entschieden.
+
+
+
+
+I. Dazu haben wir als erstes die Frage gestellt, welches die häufigsten bzw. die Oberkategorien mit den meisten Potenzial sind.
+* In unserem ersten Diagramm haben wir die Anzahl der Oberkategorien gezählt und in einem Donut dargestellt.
+
+deskriptiv:
+* Die Größe der Kreissegmente gibt hier an, wie Groß der Anteil in Anzahl der jeweiligen Oberkategorie an allen Projekten ist.
+
+Soll:
+* Sollzustand als Unternehmen sollte sein, dass die Oberkategorie gut entwickelt sind, damit wir gute Investionsvolumen 
+
+IST:
+aus allen Oberkategorie haben und damit viel Provision aus allen Oberkategorie ziehen.
+* Unsere Feststellung war allerdings, dass sich die meisten Projekte eher mit extenziellen Grundbedürfnissen beschäftigen. 67% gehen auf Agriculture, Food und Retail 
+(also Essen und Dinge des täglichen Bedarfs).
+* Sehr viel Interessanter sind also die sehr unterentwickelten Oberkategorie. Ziel sollte es sein, diese stärker in den Fokus zu nehmen und herauszufinden, wie man diese auszubauen kann.
+* Diese haben wir geld hervorgehoben und uns im Folgenden aus Health, 
+
+Limitation:
+* Sagt nichts über die Höhe der Zielbeträge der jeweiligen Oberkategorie aus.
+
+
+II Unsere nächste Businessfrage war, wie hoch den die durchschnittlichen Zielbeträge der Projekte sind.
+* Dazu haben wir ein Barchart erstellt, welches die Mediane der Zielbeträge in den jeweiligen Oberkategorie dartstellt.
+
+deskriptiv:
+* x-Achse trägt alle Oberkategorie ab. Diese sind nach Absteigenden Median der Zielbeträge sortiert.
+* y-Achse ist in USD aufsteigend.
+* Die Balken zeigen die Größe des Medians innerhalb der jeweiligen Oberkategorie dar.
+* Die gestrichelte Linie gibt den Median über alle Projekte wieder.
+
+Soll Zustand
+* Günstig für unser Unternehmen wäre, wenn die besonders häufigen Oberkategorie (Agriculture, Food, Retail) auch die höchsten Zielbeträge haben. Damit mir hier häufig, viel Provistion bekommen.
+
+IST:
+* Wir haben festgestellt, dass eher das Gegenteil der Fall ist.
+* 4 von 5 unserer ausgewälten Oberkategorie oberhalb der Medians über aller Projekte liegen. D.h. dass die sehr wenig vertretenen Oberkategorie die höheren Zielbeträge haben.
+* Das bestätigt, dass wir diese 4 bzw. 5 unterenwickelten Oberkategorie ausbauen sollten, da diese pro Projekt auch mehr Geld für uns abwerfen.
+
+
+
+III Unsere letzte Businessfrage war, wie hoch die Zielbeträge in den Kategorien in Abhängigkeit zu der am Projekt beteiligte Anzahl an Personen ist.
+* Wir hatten dazu eine neue KPI borrower_count erstellt. Diese hat aus der borrower_gender gezählt, wieviele Personen an dem Projekt beteiligt waren.
+
+* Wir haben dann eine Heatmap für Peru erstellt.
+
+deskriptiv
+* Auf der x-Achse sind wieder die Oberkategorie abgetragen. Diese sind nach der Summe ihrer Felder der jeweiligen Oberkategorie sortiert. Das entspricht in etwa dem, 
+wenn man die Oberkategorien nach der Summe ihrer Zielbeträge sortieren würde.
+* y-Achse sind die am Projektbeteiligten in 5er Schritten. Die unteren Felder sind also alles Felder, wo 1-4 Personen mitgewirkt haben. 
+0 gibt es nicht, da unser Businnesslogik keine Projekte mit 0 Beteiligten zulässt. 
+* Die Felder geben den Median der Zielbeträge wieder.  Agriculture hat also bei 25-30 Beteiligten, im Schnitt einen Zielbetrag von 5,837 USD.
+* Weiß bedeutet, dass es gar keine Projekte gibt.
+
+Sollzustand:
+* Mit steigener Personenanzahl sollten höhere Zielbeträge erzielt werden. 
+Größere Projekte mit mehr Beteiligten und höheren Zielbeträgen sind von Vorteil für uns, da sie weniger Verwaltungsaufwand verursachen als viele kleine Projekte, 
+aber gleichzeitig mehr Provision abwerfen.
+* Für Investoren ist es übersichtlicher, wenn es wenig große Projekte, als sehr viele kleine Projekte gibt. 
+Ihnen könnte eine hohe Personenzahl auch mehr Bürgsschaft und damit Sicherheit vermitteln.
+
+* Unser Diagramm ist in 4 Quadranten unterteilt: 
+horizontal ist die Linie bei 20 beteiligten gezogen. Die Felder darüber haben alle mehr als 20 Beteiligte.
+Vertikal sind die Oberkategorie auch danach eingeteilt, ob sie mehr/weniger als 20 Beteiligte haben.
+
+IST:
+der untere Bereich (linker/rechte untere Quadrant):
+dort ist unser Sollzustand erreicht. Mehr Beteiligte haben höhere Zielbeträge in allen Oberkategorie.
+
+oberer linker Quadrant:
+* dort sticht Arts und Retail heraus, da diese bei 20-24 Beteiligten gerinere Zielbeträge als bei 15-19 Beteiligten hat.
+* Diese Felder haben also noch Potenzial, die Menschen zu anmieren Größe Projekte zu initiieren.
+
+obere rechter Quadrant:
+* Dort Fallen unsere fokussierten Bereiche rein.
+* Diese haben keine Projekte mit mehr als 20 Beteiligten.
+* Hier besteht für unsere Projekte Ausbaupotenzial. Wir sollten in dem Land Peru dafür werden, sich für unsere fokussierten Oberkategorie mit mehrern Personen 
+mit hohen Zielbeträgen zusammenzu tun. Entsprechend unseren Sollzustand ist dies günstig für uns, da wir damit mehr Provistion erwarten.
+
+Limitation:
+* Diagramm gibt nicht die Häufigkeit in den Feldern wieder. Wir wissen also nicht, wo Potenzial besteht,
+ wo eine Kategorien bei einer bestimmten Personenanzahl sehr gering vertren ist und damit Potenzial ist. 
